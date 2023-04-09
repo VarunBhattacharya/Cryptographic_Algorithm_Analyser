@@ -1,0 +1,100 @@
+2023-04-07 16:24:34.681009: Substitution Algorithm Selected
+2023-04-07 16:47:19.395900: Substitution Algorithm Selected
+2023-04-07 16:49:22.941264: Playfair Cipher Substitution Encryption Selected
+2023-04-07 16:52:31.298401: Playfair Substitution Encryption Selected
+2023-04-07 16:52:50.162801: Vernam Cipher Substitution Encryption Selected
+2023-04-07 16:53:01.493213: Polybius Cipher Substitution Encryption Selected
+2023-04-07 16:53:07.786533: Vigenère Cipher Substitution Encryption Selected
+2023-04-07 16:53:11.410224: Vernam Cipher Substitution Encryption Selected
+2023-04-07 16:53:21.633150: Monoalphabetic Cipher Substitution Encryption Selected
+2023-04-07 16:54:25.142236: Vernam Cipher Substitution Encryption Selected
+2023-04-07 16:54:33.856106: Playfair Cipher Substitution Encryption Selected
+2023-04-07 16:54:37.555907: Polybius Cipher Substitution Encryption Selected
+2023-04-07 16:54:41.362362: Vigenère Cipher Substitution Encryption Selected
+2023-04-07 16:54:44.824298: Vernam Cipher Substitution Encryption Selected
+2023-04-07 16:55:53.276155: Columnar Cipher Transposition Encryption Selected
+2023-04-07 16:56:00.847517: Railfence Cipher Transposition Encryption Selected
+2023-04-07 16:57:58.570765: RSA Assymmetric Encryption Selected
+2023-04-07 18:08:59.933985: Asymmetric Encryption Algorithm Selected
+2023-04-07 18:09:06.462971: Modern Encryption Algorithm Selected
+2023-04-08 14:22:20.645456: Substitution Algorithm Selected
+2023-04-08 14:22:22.749824: Returned to Main Page
+2023-04-08 14:22:24.094795: Transposition Algorithm Selected
+2023-04-08 14:22:25.875455: Returned to Main Page
+2023-04-08 14:22:27.165515: Modern Encryption Algorithm Selected
+2023-04-08 14:22:32.118946: Returned to Main Page
+2023-04-08 14:22:33.622316: Asymmetric Encryption Algorithm Selected
+2023-04-08 14:22:35.518179: Returned to Main Page
+2023-04-08 14:22:41.358562: Modern Encryption Algorithm Selected
+2023-04-08 14:25:03.917861: Returned to Main Page
+2023-04-08 14:29:22.077756: Returned to Main Page
+2023-04-08 14:29:25.671996: Substitution Algorithm Selected
+2023-04-08 14:29:39.971326: Returned to Main Page
+2023-04-08 14:31:19.589631: Substitution Algorithm Selected
+2023-04-08 14:31:25.336332: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:31:42.208411: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:31:56.130564: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:31:56.781638: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:32:00.283013: Caesar Cipher Substitution Encryption Selected
+2023-04-08 14:32:05.225437: Caesar Cipher Substitution Encryption Selected
+2023-04-08 14:33:57.565560: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:30.110257: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:30.727809: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:37.509813: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:38.526592: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:41.110852: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:41.734303: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:47.415051: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:53.118796: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:34:57.200198: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:35:00.878363: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:35:06.368437: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:35:12.942377: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:35:21.445814: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:35:30.750350: Returned to Main Page
+2023-04-08 14:35:32.470596: Substitution Algorithm Selected
+2023-04-08 14:35:38.007383: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:39:05.654067: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:39:16.122252: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:39:26.146370: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:39:28.952896: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:40:46.574808: Returned to Main Page
+2023-04-08 14:40:48.694960: Asymmetric Encryption Algorithm Selected
+2023-04-08 14:41:31.686096: RSA Assymmetric Encryption Selected
+2023-04-08 14:45:15.910479: Returned to Main Page
+2023-04-08 14:45:26.981171: Substitution Algorithm Selected
+2023-04-08 14:45:53.830397: Returned to Main Page
+2023-04-08 14:45:56.510137: Modern Encryption Algorithm Selected
+2023-04-08 14:45:59.869735: Returned to Main Page
+2023-04-08 14:46:01.318760: Asymmetric Encryption Algorithm Selected
+2023-04-08 14:46:04.748828: Returned to Main Page
+2023-04-08 14:46:05.998176: Transposition Algorithm Selected
+2023-04-08 14:46:11.485422: Returned to Main Page
+2023-04-08 14:46:13.085707: Modern Encryption Algorithm Selected
+2023-04-08 14:47:37.989053: Modern Encryption Algorithm Selected
+2023-04-08 14:47:42.693231: Returned to Main Page
+2023-04-08 14:47:44.709770: Transposition Algorithm Selected
+2023-04-08 14:47:59.887300: Columnar Cipher Transposition Encryption Selected
+2023-04-08 14:48:36.251401: Railfence Cipher Transposition Encryption Selected
+2023-04-08 14:49:05.968403: Returned to Main Page
+2023-04-08 14:54:30.429263: Substitution Algorithm Selected
+2023-04-08 14:54:35.118798: Returned to Main Page
+2023-04-08 14:54:36.654266: Transposition Algorithm Selected
+2023-04-08 14:54:39.485632: Returned to Main Page
+2023-04-08 14:54:41.365886: Transposition Algorithm Selected
+2023-04-08 14:54:46.423430: Returned to Main Page
+2023-04-08 14:54:47.957583: Modern Encryption Algorithm Selected
+2023-04-08 14:54:51.365747: Returned to Main Page
+2023-04-08 14:54:52.782011: Asymmetric Encryption Algorithm Selected
+2023-04-08 14:55:00.597839: Returned to Main Page
+2023-04-08 14:57:32.119016: Substitution Algorithm Selected
+2023-04-08 14:57:57.284646: Playfair Cipher Substitution Encryption Selected
+2023-04-08 14:58:33.582530: Returned to Main Page
+2023-04-08 14:58:37.486455: Transposition Algorithm Selected
+2023-04-08 14:58:48.058515: Columnar Cipher Transposition Encryption Selected
+2023-04-08 14:59:28.438181: Railfence Cipher Transposition Encryption Selected
+2023-04-08 14:59:52.080534: Returned to Main Page
+2023-04-08 14:59:54.120238: Modern Encryption Algorithm Selected
+2023-04-08 15:00:08.669631: Returned to Main Page
+2023-04-08 15:00:10.544653: Asymmetric Encryption Algorithm Selected
+2023-04-08 15:00:31.324792: RSA Assymmetric Encryption Selected
